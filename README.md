@@ -8,19 +8,16 @@ Web3 developer and educator. Ex-CTO & founder. Chainlink Developer Expert. I bui
 
 **[Trust8004](https://trust8004.xyz)** — ERC-8004 agent indexer and deployment platform. Scan, discover, and verify on-chain AI agents. *(hobby project)*
 
-**[Agent0-TS](https://github.com/gilbertsahumada/agent0-ts)** — TypeScript SDK for agentic economies. Agent registration, identity (ERC-8004), reputation, and multi-chain discovery.
-
 **[self-control](https://github.com/gilbertsahumada/self-control)** — Minimalist macOS CLI that blocks websites with no way to undo it. Dual-layer blocking via `/etc/hosts` + firewall rules. Built in Swift.
 
 ## Open-source contributions
 
 I've contributed to and worked with several open-source projects:
 
+- **[Agent0-TS](https://github.com/gilbertsahumada/agent0-ts)** — TypeScript SDK for agentic economies. Agent registration, identity (ERC-8004), reputation, and multi-chain discovery.
 - **[SherryLabs](https://github.com/SherryLabs)** — Co-founded. Built the SDK for interactive Web3 mini-apps embedded in social media, smart contracts with cross-chain support (Wormhole), and the widget system (slinks).
 - **[ChaosChain](https://github.com/ChaosChain)** — Contributed to the SDK and protocol. Accountability protocol for autonomous agents with Proof of Agency and DKG-based consensus.
 - **[Chainlink CRE SDK](https://github.com/smartcontractkit/cre-sdk-typescript)** — Worked with the Chainlink Cross-chain Read Enabled SDK.
-- **[ElizaOS](https://github.com/elizaos/eliza)** — Built custom agents and actions on the Eliza framework.
-
 ## Tech
 
 ```
