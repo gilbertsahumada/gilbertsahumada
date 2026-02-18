@@ -27,6 +27,10 @@
 - 🤖 **[Agent0-TS](https://github.com/gilbertsahumada/agent0-ts)** — TypeScript SDK for agentic economies. Agent registration, identity (ERC-8004), reputation, and multi-chain discovery.
 - 🍒 **[SherryLabs](https://github.com/SherryLabs)** — Co-founded. Built the SDK for interactive Web3 mini-apps, smart contracts with cross-chain support (Wormhole), and the widget system (slinks).
 - ⛓️ **[ChaosChain](https://github.com/ChaosChain)** — Contributed to the SDK and protocol. Accountability protocol for autonomous agents with Proof of Agency and DKG-based consensus.
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/e74c3c/gilbertsahumada)
+
 ## Speaking & Teaching
 
 Speaker in Chile, Argentina, Uruguay, Peru, and Mexico. I write and make videos about Web3 development in Spanish.
