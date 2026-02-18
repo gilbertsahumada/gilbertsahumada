@@ -10,6 +10,9 @@
 ![Hardhat](https://img.shields.io/badge/-Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
 ![Foundry](https://img.shields.io/badge/-Foundry-1C1C1C?style=flat-square&logo=foundry&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 > Building devtools and agent infrastructure around ERC-8004. Teaching Web3 in Spanish across Latin America.
 
