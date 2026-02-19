@@ -24,7 +24,7 @@
 
 ## Open-Source Contributions
 
-- 🤖 **[create-8004-agent](https://github.com/Eversmile12/create-8004-agent)** — Added A2A client generation and CLI commands with end-to-end test suite. ([PR #2 merged](https://github.com/Eversmile12/create-8004-agent/pull/2))
+- 🤖 **[create-8004-agent](https://github.com/Eversmile12/create-8004-agent)** — Added A2A client generation and CLI commands with end-to-end test suite.
 - 🍒 **[SherryLabs](https://github.com/SherryLabs)** — Co-founded. Built the SDK for interactive Web3 mini-apps, smart contracts with cross-chain support (Wormhole), and the widget system (slinks).
 - ⛓️ **[ChaosChain](https://github.com/ChaosChain)** — Contributed to the SDK and protocol. Accountability protocol for autonomous agents with Proof of Agency and DKG-based consensus.
 ## GitHub Activity
