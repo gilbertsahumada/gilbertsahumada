@@ -18,6 +18,7 @@
 
 ## Current Projects
 
+- 💬 **[micompa](https://micompa.cl)** — AI-powered WhatsApp personal assistant. Building it in public on [YouTube](https://www.youtube.com/playlist?list=PL2uIxLJ7G8e0xT1NC2d_IjVR4xm7QDR0y).
 - 🎩 **[Movehat](https://github.com/gilbertsahumada/movehat)** — Hardhat-like framework for Move smart contracts on Movement L1 and Aptos. **1st Place DevEx Award at Movement L1 Hackathon.**
 - 🔍 **[Trust8004](https://trust8004.xyz)** — ERC-8004 agent indexer and deployment platform. Scan, discover, and verify on-chain AI agents. *(hobby project)*
 - 🚫 **[self-control](https://github.com/gilbertsahumada/self-control)** — Minimalist macOS CLI that blocks websites with no way to undo it. Built in Swift.
