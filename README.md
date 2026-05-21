@@ -14,8 +14,6 @@
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-> Building devtools and agent infrastructure around ERC-8004. Teaching Web3 in Spanish across Latin America.
-
 ## Current Projects
 
 - **[micompa](https://micompa.cl)** — Growth content engine for founders and businesses in LATAM. Building it in public on [YouTube](https://www.youtube.com/playlist?list=PL2uIxLJ7G8e0xT1NC2d_IjVR4xm7QDR0y).
