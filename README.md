@@ -1,6 +1,10 @@
 # Hey, I'm Gilberts
 
-**Born in Chile** | **Digital Nomad** | **Web3 Developer & Educator** | **Ex-CTO & Founder** | **Chainlink Developer Expert**
+**Software engineer building with AI and sharing what I learn.**
+
+I'm from Chile, with 10+ years of experience in software engineering. Previously, I co-founded Sherry and served as CTO. Today I focus on applied AI for software developers: using AI in our daily work and building applications with AI.
+
+**Digital Nomad** | **AI & Web3 Educator** | **Chainlink Developer Expert**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
@@ -14,9 +18,16 @@
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+## Learn & Build With Me
+
+- **[YouTube](https://www.youtube.com/@gilbertsahumada)** — 250+ technical videos in Spanish. My current content line, **IA en Producción**, explores building with AI with an engineering mindset.
+- **[Tutorial resources](https://github.com/gilbertsahumada/youtube-tutorials)** — Prompts, skills, and examples that accompany the videos.
+- **[Upcoming training](https://academia.gilbertsahumada.com/?utm_source=github&utm_medium=referral&utm_campaign=academia_lista_espera&utm_content=perfil)** — Spanish-language training on applied AI for software developers, currently in preparation. Join the waiting list for details about the first edition.
+- **[IA en Producción community](https://www.skool.com/ia-en-produccion-3264)** — Live sessions, real cases, and more prompts on Skool.
+
 ## Current Projects
 
-- **[micompa](https://micompa.cl)** — Growth content engine for founders and businesses in LATAM. Building it in public on [YouTube](https://www.youtube.com/playlist?list=PL2uIxLJ7G8e0xT1NC2d_IjVR4xm7QDR0y).
+- **[MiCompa](https://micompa.cl)** — WhatsApp customer service and sales agent for service businesses, with scheduling and follow-up.
 - **[Movehat](https://github.com/gilbertsahumada/movehat)** — Hardhat-like framework for Move smart contracts on Movement L1. **1st Place DevEx Award at Movement L1 Hackathon.**
 - **[Trust8004](https://trust8004.xyz)** — ERC-8004 agent indexer and deployment platform. Scan, discover, and verify on-chain AI agents. *(hobby project)*
 - **[self-control](https://github.com/gilbertsahumada/self-control)** — Minimalist macOS CLI that blocks websites with no way to undo it. Built in Swift.
@@ -33,15 +44,15 @@
 
 ## Speaking & Teaching
 
-Speaker in Chile, Argentina, Uruguay, Peru, and Mexico. I write and make videos about Web3 development in Spanish.
+Speaker in Chile, Argentina, Uruguay, Peru, and Mexico. I write and make videos about software development, applied AI, and Web3 in Spanish.
 
-[![YouTube](https://img.shields.io/badge/-@gilbertsahumada-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@gilbertsahumada)
+[![YouTube](https://img.shields.io/badge/-@gilbertsahumada-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@gilbertsahumada)
 [![Substack](https://img.shields.io/badge/-Newsletter-FF6719?style=flat-square&logo=substack&logoColor=white)](https://gilbertsahumada.substack.com)
 
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-@gilbertsahumada-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/gilbertsahumada)
 [![LinkedIn](https://img.shields.io/badge/-gilbertsahumada-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilbertsahumada)
-[![YouTube](https://img.shields.io/badge/-@gilbertsahumada-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@gilbertsahumada)
+[![YouTube](https://img.shields.io/badge/-@gilbertsahumada-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@gilbertsahumada)
 [![Email](https://img.shields.io/badge/-gilbertsahumada@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gilbertsahumada@gmail.com)
 [![Web](https://img.shields.io/badge/-gilbertsahumada.com-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://gilbertsahumada.com)
