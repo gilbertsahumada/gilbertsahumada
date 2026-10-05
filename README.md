@@ -23,7 +23,6 @@ I'm from Chile, with 10+ years of experience in software engineering. Previously
 - **[YouTube](https://www.youtube.com/@gilbertsahumada)** — 250+ technical videos in Spanish. My current content line, **IA en Producción**, explores building with AI with an engineering mindset.
 - **[Tutorial resources](https://github.com/gilbertsahumada/youtube-tutorials)** — Prompts, skills, and examples that accompany the videos.
 - **[Upcoming training](https://academia.gilbertsahumada.com/?utm_source=github&utm_medium=referral&utm_campaign=academia_lista_espera&utm_content=perfil)** — Spanish-language training on applied AI for software developers, currently in preparation. Join the waiting list for details about the first edition.
-- **[IA en Producción community](https://www.skool.com/ia-en-produccion-3264)** — Live sessions, real cases, and more prompts on Skool.
 
 ## Current Projects
 
