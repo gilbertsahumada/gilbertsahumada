@@ -26,6 +26,8 @@ I'm from Chile, with 10+ years of experience in software engineering. Previously
 
 ## Current Projects
 
+- **[Pickler](https://pickler.fun)** — AI agent marketplace for market research, hiring analysis, and exploring agent tokens. Currently on Monad Testnet.
+- **[Gyblos](https://gyblos.com)** — Peer-to-peer AI inference marketplace in development: buy by the token, sell compute, or share it.
 - **[MiCompa](https://micompa.cl)** — WhatsApp customer service and sales agent for service businesses, with scheduling and follow-up.
 - **[Movehat](https://github.com/gilbertsahumada/movehat)** — Hardhat-like framework for Move smart contracts on Movement L1. **1st Place DevEx Award at Movement L1 Hackathon.**
 - **[Trust8004](https://trust8004.xyz)** — ERC-8004 agent indexer and deployment platform. Scan, discover, and verify on-chain AI agents. *(hobby project)*
